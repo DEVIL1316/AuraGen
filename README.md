@@ -1,0 +1,2 @@
+# AuraGen
+Self-Healing Generative UI via Cognitive Load.
